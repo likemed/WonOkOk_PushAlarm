@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148365705323",
+    "firebase_url": "https://wonokok-53cf5.firebaseio.com",
+    "project_id": "wonokok-53cf5",
+    "storage_bucket": "wonokok-53cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148365705323:android:ac4d8cdf08a9b7d6",
+        "android_client_info": {
+          "package_name": "likemed.wonokok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148365705323-33aga960ljtkbbv6j7g05qolvg5c98fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkeh2QiHIxGtpbN2Rs29YMhJ4CVyhk7KU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
